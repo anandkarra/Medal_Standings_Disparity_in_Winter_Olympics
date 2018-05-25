@@ -6,10 +6,10 @@
 ____
 
 ## Summary
-Reading and exploring about data visualization online I stumbled across #MakeoverMonday. An online weekly social data project ([#MakeoverMonday](http://www.makeovermonday.co.uk/)). Looking at the Winter Olympics medal standings data overtime, I found an interesting trend: 
-> **only a small number of the participating countries win a larger proportion of the medals**.
+Reading and exploring about data visualization online I stumbled across #MakeoverMonday. An online weekly social data project ([#MakeoverMonday](http://www.makeovermonday.co.uk/)). The Winter Olympics dataset piqued my interest as it was just around the time the Winter Olympics in PyeongChang, South Korea were taking place. Looking at the Winter Olympics medal standings data, I found an interesting trend: 
+> **A small number of the participating countries win a larger proportion of the medals**.
 
-This Tableau story is about how this trend varied over time, the three medals, sports and gender.
+This Tableau story is about how this trend varied over time, the three medals (Gold, Silver and Bronze), sports and gender.
 
 ___
 
@@ -84,14 +84,14 @@ ____
 
 ## Resources
 
-**Example – A Story That Examines a Trend** - [Tableau Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/story_example.html)
-**Makeover Monday** - [Makeover Monday | A weekly social data project](http://www.makeovermonday.co.uk/)
-**Week 7: The Winter Olympics** - [Makeover Monday](http://www.makeovermonday.co.uk/week7-2018/)
-**The Winter Olympics** - [Workbook: The Winter Olympics](https://public.tableau.com/views/TheWinterOlympics/TheWinterOlympics?:embed=y&:showVizHome=no)
-**#MakeoverMonday Week 7 | Who Gets an Olympic Medal?** - [Tableau Public](https://public.tableau.com/profile/ann.jackson#!/vizhome/MakeoverMondayWeek7WhoGetsanOlympicMedal/MakeoverMondayWeek7WhoGetsanOlympicMedal)
-**How do Wealth and Population Impact Countries' Medal Counts in Winter Olympics** - [Workbook: GDP and Population Impact on Winter Olympic Performance](https://public.tableau.com/views/GDPandPopulationImpactonWinterOlympicPerformance/WinterOlympics?:embed=y&:display_count=yes&publish=yes&:showVizHome=no#3)
-**The Tableau Interface** - [Tableau Training](https://www.tableau.com/learn/tutorials/on-demand/tableau-interface?product=tableau_desktop+tableau_prep&version=2018_1&topic=getting_started)
-**Reference Lines** - [Tableau Learning](https://www.tableau.com/learn/tutorials/on-demand/reference-lines?product=tableau_desktop&version=10_0&topic=visual_analytics)
-**Formatting** - [Tableau Learning](https://www.tableau.com/learn/tutorials/on-demand/formatting?signin=2e2e5de59d610ac85ba7a6cb2a68de4f)
-**Save Workbooks to Tableau Public** - [Tableau Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/publish_workbooks_tableaupublic.html)
+* **Example – A Story That Examines a Trend** - [Tableau Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/story_example.html)
+* **Makeover Monday** - [Makeover Monday | A weekly social data project](http://www.makeovermonday.co.uk/)
+* **Week 7: The Winter Olympics** - [Makeover Monday](http://www.makeovermonday.co.uk/week7-2018/)
+* **The Winter Olympics** - [Workbook: The Winter Olympics](https://public.tableau.com/views/TheWinterOlympics/TheWinterOlympics?:embed=y&:showVizHome=no)
+* **#MakeoverMonday Week 7 | Who Gets an Olympic Medal?** - [Tableau Public](https://public.tableau.com/profile/ann.jackson#!/vizhome/MakeoverMondayWeek7WhoGetsanOlympicMedal/MakeoverMondayWeek7WhoGetsanOlympicMedal)
+* **How do Wealth and Population Impact Countries' Medal Counts in Winter Olympics** - [Workbook: GDP and Population Impact on Winter Olympic Performance](https://public.tableau.com/views/GDPandPopulationImpactonWinterOlympicPerformance/WinterOlympics?:embed=y&:display_count=yes&publish=yes&:showVizHome=no#3)
+* **The Tableau Interface** - [Tableau Training](https://www.tableau.com/learn/tutorials/on-demand/tableau-interface?product=tableau_desktop+tableau_prep&version=2018_1&topic=getting_started)
+* **Reference Lines** - [Tableau Learning](https://www.tableau.com/learn/tutorials/on-demand/reference-lines?product=tableau_desktop&version=10_0&topic=visual_analytics)
+* **Formatting** - [Tableau Learning](https://www.tableau.com/learn/tutorials/on-demand/formatting?signin=2e2e5de59d610ac85ba7a6cb2a68de4f)
+* **Save Workbooks to Tableau Public** - [Tableau Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/publish_workbooks_tableaupublic.html)
 ____
